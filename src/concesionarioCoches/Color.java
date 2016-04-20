@@ -2,12 +2,14 @@ package pgn.examenMarzo.concesionarioCoches;
 
 //import pgn.examenMarzo.utiles.Menu;
 
+//COMENTARIO EDITADO POR RAFAEL YUSTE ACTIVIDAD REPOSITORIO
+
 /**
  * Se limitarán los colores a tres: plata, rojo y azul. Para solicitar el color
  * al dar de alta al coche podrá implementarse un método pedirColor que mediante
  * la gestión de un menú, devolverá el color indicado
  * 
- * @author MaríaLourdes
+ * @author Rafael Yuste
  * 
  */
 public enum Color {
